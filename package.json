@@ -1,7 +1,7 @@
 {
   "name": "coordinates2tile",
   "version": "0.0.1",
-  "description": "",
+  "description": "Convert Coordinates to WMTS Tile Number",
   "main": "src/index.js",
   "scripts": {
     "test": "mocha  --require intelli-espower-loader",
@@ -18,9 +18,9 @@
   "directories": {
     "test": "test/"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["coordinates", "geo", "tiles"],
+  "author": "kohatang",
+  "license": "MIT",
   "devDependencies": {
     "eslint": "^4.19.1",
     "eslint-config-airbnb-base": "^12.1.0",
