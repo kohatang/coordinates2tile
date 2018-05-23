@@ -9,6 +9,7 @@
     "lint:fix": "eslint ./src/*.js --fix",
     "precommit": "lint-staged"
   },
+  "repository": "kohatang/coordinates2tile",
   "lint-staged": {
     "*.js": [
       "eslint --fix",
