@@ -1,6 +1,6 @@
 {
   "name": "coordinates2tile",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert Coordinates to WMTS Tile Number",
   "main": "src/index.js",
   "scripts": {
